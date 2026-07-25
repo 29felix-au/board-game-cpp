@@ -7,3 +7,5 @@ Clone this repository and run the script:
 ```bash
 git clone https://github.com/29felix-au/board-game-cpp.git
 ```
+
+*Initialized by fullstack-builder-51 workspace automation.*
